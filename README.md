@@ -6,8 +6,7 @@ Electronics and Electrical Communcation Engineering Department.
 
 2022-2023
 
-## Firmware Over The Air
-## (FOTA)
+## Firmware Over The Air (FOTA)
 
 by:
 - Ahmed Shawky Hamed Abdulrahman
