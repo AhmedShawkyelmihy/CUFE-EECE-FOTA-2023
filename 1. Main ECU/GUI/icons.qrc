@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/calculator.png</file>
+    <file>icons/celender.png</file>
+    <file>icons/close.png</file>
+    <file>icons/curcile.png</file>
+    <file>icons/fota.png</file>
+    <file>icons/help.png</file>
+    <file>icons/home.png</file>
+    <file>icons/information.png</file>
+    <file>icons/left.png</file>
+    <file>icons/LogIn.png</file>
+    <file>icons/maxmaize.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/more.png</file>
+    <file>icons/music.png</file>
+    <file>icons/notification.png</file>
+    <file>icons/setting.png</file>
+    <file>icons/sgin in.jpg</file>
+    <file>icons/sign up.png</file>
+    <file>icons/square.png</file>
+    <file>icons/backgrounds.jpg</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/background.jpg</file>
+  </qresource>
+</RCC>
